@@ -1,0 +1,44 @@
+Class Prent
+{
+//properties/methods/funtions
+}
+//call the member(properties/methods/funtions) of the parent class in the child class.
+//call the members of the parent class we use "base" keyword
+To inherit we use ":" symbol followed by the class name
+}
+class GrandChild: Child(Parent + Child)
+{
+//base
+}
+
+Types:
+1. Single
+2. Multi Level(Hierarchical)
+3. Multiple -- not supported directly(Interfaces)Diamond Problem
+4. Hybrid
+---------------------------------------------------------------------
+
+                       Person
+           Father                 Mother
+                       Child
+
+
+
+1) Create a class Book with Bookid,bookname, price,author as properties.
+2) Create default and paramertized constructor.
+3) Create a class BookCategory with catid,catname and description
+as properties
+4) Create default and paramertized constructor.
+5) Create a method in Book Class to InsertBook(bookid,bookname,price)
+6) Create another method in Book Class to InsertBook(bookid,bookname,price,author)
+7) Create another method in Book Class to InsertBook(bookid,bookname)
+8) Create a class Novels which inherits Book Class.
+9) Create a method in Novel Class called InsertBook(bookid,bookname,price,number of pages),
+  for hiding the base class method,but call the base class insertBook(bookid,bookname,price).
+10) Create a Cart Class with customerid,bookid,price as properties.
+    Add books to the Cart using AddToCart() using appropriate parameters.
+11) List all the books from the cart.
+12) Create a static variables to count number of books added to cart.
+13) can u create objects of interface and abstract class
+
+

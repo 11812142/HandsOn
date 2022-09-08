@@ -1,0 +1,6 @@
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\Library\bin\Debug\Library.dll
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\Library\bin\Debug\Library.pdb
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\Library\obj\Debug\Library.dll
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\Library\obj\Debug\Library.pdb

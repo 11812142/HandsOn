@@ -1,0 +1,8 @@
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\GitProject\GitProject\bin\Debug\GitProject.exe.config
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\GitProject\GitProject\bin\Debug\GitProject.exe
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\GitProject\GitProject\bin\Debug\GitProject.pdb
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\GitProject\GitProject\obj\Debug\GitProject.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\GitProject\GitProject\obj\Debug\GitProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\GitProject\GitProject\obj\Debug\GitProject.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\GitProject\GitProject\obj\Debug\GitProject.exe
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\GitProject\GitProject\obj\Debug\GitProject.pdb

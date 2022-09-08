@@ -1,0 +1,11 @@
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\5_Sep_Handson\5_Sep_Handson\bin\Debug\5_Sep_Handson.exe.config
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\5_Sep_Handson\5_Sep_Handson\bin\Debug\5_Sep_Handson.exe
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\5_Sep_Handson\5_Sep_Handson\bin\Debug\5_Sep_Handson.pdb
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\5_Sep_Handson\5_Sep_Handson\bin\Debug\Class_Library.dll
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\5_Sep_Handson\5_Sep_Handson\bin\Debug\Class_Library.pdb
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\5_Sep_Handson\5_Sep_Handson\obj\Debug\5_Sep_Handson.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\5_Sep_Handson\5_Sep_Handson\obj\Debug\5_Sep_Handson.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\5_Sep_Handson\5_Sep_Handson\obj\Debug\5_Sep_Handson.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\5_Sep_Handson\5_Sep_Handson\obj\Debug\5_Sep_Handson.csproj.CopyComplete
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\5_Sep_Handson\5_Sep_Handson\obj\Debug\5_Sep_Handson.exe
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\5_Sep_Handson\5_Sep_Handson\obj\Debug\5_Sep_Handson.pdb

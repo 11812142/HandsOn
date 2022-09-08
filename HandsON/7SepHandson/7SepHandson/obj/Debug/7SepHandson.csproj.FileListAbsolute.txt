@@ -1,0 +1,11 @@
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\7SepHandson\obj\Debug\7SepHandson.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\7SepHandson\obj\Debug\7SepHandson.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\7SepHandson\obj\Debug\7SepHandson.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\7SepHandson\bin\Debug\7SepHandson.exe.config
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\7SepHandson\bin\Debug\7SepHandson.exe
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\7SepHandson\bin\Debug\7SepHandson.pdb
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\7SepHandson\bin\Debug\Library.dll
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\7SepHandson\bin\Debug\Library.pdb
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\7SepHandson\obj\Debug\7SepHandson.csproj.CopyComplete
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\7SepHandson\obj\Debug\7SepHandson.exe
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\7SepHandson\7SepHandson\obj\Debug\7SepHandson.pdb

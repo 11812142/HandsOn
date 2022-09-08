@@ -1,0 +1,8 @@
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\29_Aug_Handson\29_Aug_Handson\bin\Debug\29_Aug_Handson.exe.config
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\29_Aug_Handson\29_Aug_Handson\bin\Debug\29_Aug_Handson.exe
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\29_Aug_Handson\29_Aug_Handson\bin\Debug\29_Aug_Handson.pdb
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\29_Aug_Handson\29_Aug_Handson\obj\Debug\29_Aug_Handson.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\29_Aug_Handson\29_Aug_Handson\obj\Debug\29_Aug_Handson.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\29_Aug_Handson\29_Aug_Handson\obj\Debug\29_Aug_Handson.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\29_Aug_Handson\29_Aug_Handson\obj\Debug\29_Aug_Handson.exe
+C:\Users\INDIA\source\repos\C-Sharp-Handson\HandsON\29_Aug_Handson\29_Aug_Handson\obj\Debug\29_Aug_Handson.pdb

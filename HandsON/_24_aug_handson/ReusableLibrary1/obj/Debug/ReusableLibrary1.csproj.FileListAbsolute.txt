@@ -1,0 +1,6 @@
+C:\Users\INDIA\source\repos\HandsON\_24_aug_handson\ReusableLibrary1\bin\Debug\ReusableLibrary1.dll
+C:\Users\INDIA\source\repos\HandsON\_24_aug_handson\ReusableLibrary1\bin\Debug\ReusableLibrary1.pdb
+C:\Users\INDIA\source\repos\HandsON\_24_aug_handson\ReusableLibrary1\obj\Debug\ReusableLibrary1.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\HandsON\_24_aug_handson\ReusableLibrary1\obj\Debug\ReusableLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\HandsON\_24_aug_handson\ReusableLibrary1\obj\Debug\ReusableLibrary1.dll
+C:\Users\INDIA\source\repos\HandsON\_24_aug_handson\ReusableLibrary1\obj\Debug\ReusableLibrary1.pdb
