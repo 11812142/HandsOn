@@ -12,54 +12,54 @@ namespace _12_Sep_Handson
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\INDIA\source\New Repo\HandsON\12_Sep_Handson\ClassLibrary\bin\Debug\ClassLibrary.dll";
+            //string path = @"C:\Users\INDIA\source\New Repo\HandsON\12_Sep_Handson\ClassLibrary\bin\Debug\ClassLibrary.dll";
 
-            Assembly asm = Assembly.LoadFrom(path);
-            //  Assembly asm1=Assembly.GetAssembly(typeof(path));
-            Type[] types = asm.GetTypes();
-            foreach (var item in types)
-            {
-                Console.WriteLine("name= " + item.Name);//classname
-                Console.WriteLine("Full Name= " + item.FullName);//(assemblyname/namespacename) . class
+            //Assembly asm = Assembly.LoadFrom(path);
+            ////  Assembly asm1=Assembly.GetAssembly(typeof(path));
+            //Type[] types = asm.GetTypes();
+            //foreach (var item in types)
+            //{
+            //    Console.WriteLine("name= " + item.Name);//classname
+            //    Console.WriteLine("Full Name= " + item.FullName);//(assemblyname/namespacename) . class
 
-                Console.WriteLine("IS Class=" + item.IsClass);
-                Console.WriteLine("IS Absatract=" + item.IsAbstract);
-                Console.WriteLine("Whether public " + item.IsPublic);
-
-
-                Console.WriteLine("-----------------");
-                MethodInfo[] methods = item.GetMethods();
-                foreach (var method in methods)
-                {
-                    // for displaying each method
-                    Console.WriteLine("--> Method : {0}", method.Name);
+            //    Console.WriteLine("IS Class=" + item.IsClass);
+            //    Console.WriteLine("IS Absatract=" + item.IsAbstract);
+            //    Console.WriteLine("Whether public " + item.IsPublic);
 
 
-
-                    ParameterInfo[] parameters = method.GetParameters();
-                    foreach (var arg in parameters)
-                    {
-                        Console.WriteLine(" Parameter : {0} Type : {1}",
-                        arg.Name, arg.ParameterType);
-
-
-                    }
-                }
-                Console.WriteLine("#############################################3");
-                Type t = null;
-                t = asm.GetType(item.FullName);
-
-                object obj = Activator.CreateInstance(t);
-
-                int ans = (int)item.InvokeMember("Cube", BindingFlags.Public | BindingFlags.Instance | BindingFlags.InvokeMethod, null, obj, new object[2] { 4, 9 });
+            //    Console.WriteLine("-----------------");
+            //    MethodInfo[] methods = item.GetMethods();
+            //    foreach (var method in methods)
+            //    {
+            //        // for displaying each method
+            //        Console.WriteLine("--> Method : {0}", method.Name);
 
 
-                //double ans1 = (double)
-                item.InvokeMember("SquareRoot", BindingFlags.Public | BindingFlags.Instance | BindingFlags.InvokeMethod, null, obj, new object[2] { 16.00, 100.00 });
 
-                break;
+            //        ParameterInfo[] parameters = method.GetParameters();
+            //        foreach (var arg in parameters)
+            //        {
+            //            Console.WriteLine(" Parameter : {0} Type : {1}",
+            //            arg.Name, arg.ParameterType);
 
-            }
+
+            //        }
+            //    }
+            //    Console.WriteLine("#############################################3");
+            //    Type t = null;
+            //    t = asm.GetType(item.FullName);
+
+            //    object obj = Activator.CreateInstance(t);
+
+            //    int ans = (int)item.InvokeMember("Cube", BindingFlags.Public | BindingFlags.Instance | BindingFlags.InvokeMethod, null, obj, new object[2] { 4, 9 });
+
+
+            //    //double ans1 = (double)
+            //    item.InvokeMember("SquareRoot", BindingFlags.Public | BindingFlags.Instance | BindingFlags.InvokeMethod, null, obj, new object[2] { 16.00, 100.00 });
+
+            //    break;
+
+            //}
             Console.WriteLine("#######################");
             Program.WritedataForEachCode(typeof(Song));
             Console.Read();
