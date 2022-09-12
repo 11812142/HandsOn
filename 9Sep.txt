@@ -1,8 +1,9 @@
 Agenda for Today -----9/9/22
 Intro to Multi Threading,Thread and Task +Demos
+
 MutliTasking: It is simultaneous execution of multiple tasks or processes over a 
 certain time interval.
-Windows OS: 
+Like Windows OS: 
 Process-- Is a part of OS that is responsible for executing the application.
 Every program that executes is a process and to run the code inside the application 
 a process uses a THREAD.
@@ -53,15 +54,16 @@ running-----block---i/o
 
 star------->block
 -----------------------------------------
-Monitor is a mechanism for ensuring that only one thread at a time may be running a particular
-code .
+Monitor is a mechanism for ensuring that only one thread at a time may be 
+running a particular code .
 A monitor has a lock, and only  one thread at a time can acquire it.
 
 Info maintained by synchronized object
 1) A reference a reference to the thread that currently holds the lock.
-2) A reference to a ready queue, which contains the thread/s that r ready to obtain the lock.
-3) A refernce to waiting queue, whcih contains thread that are waiting for notification of a 
-change in the state of the locked object.
+2) A reference to a ready queue, which contains the thread/s that r ready to 
+   obtain the lock.
+3) A refernce to waiting queue, whcih contains thread that are waiting for
+ notification of a change in the state of the locked object.
 
 
 
