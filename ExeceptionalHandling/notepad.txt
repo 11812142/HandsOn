@@ -1,0 +1,25 @@
+Every exception inherits from Exception class under System namespace.
+structured :
+try
+{
+}
+catch()
+{
+}
+finally
+{
+}
+--------------------------------------------------------
+System
+Exception
+Types
+1) Application----Argument Null Exception/Argument out of range exception,recoverable code occurs
+2) System----NullReferenceException,InvalidOperationException,AccessViolationException,
+DivideByZero
+Arithmetic Exception
+Format Exception
+System Level Exception occurs when a fatal or non-recoverable error is encountered , like database crash, bound errors,etc
+System
+Exception
+ApplicationException
+ 

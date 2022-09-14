@@ -1,0 +1,9 @@
+WRITEUP:
+
+1st: I create Base class/Parent class named as Student Class.
+2nd: Teacher class (Derived class/chil class) inherits the fields & methods from Student class.
+3rd: Same for course ----------->all 3 steps in class
+After that create object in main funtion which is entry point. Also calling method from base class 
+on the derived class with help of the object.
+And finally displaying the Field value stored data with help of the console.
+ [Class in ClassLibrary And main in the console application}

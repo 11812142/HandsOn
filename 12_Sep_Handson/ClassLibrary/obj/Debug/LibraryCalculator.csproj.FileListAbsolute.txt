@@ -1,0 +1,6 @@
+C:\Users\INDIA\source\New Repo\HandsON\12_Sep_Handson\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\INDIA\source\New Repo\HandsON\12_Sep_Handson\ClassLibrary\obj\Debug\LibraryCalculator.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\New Repo\HandsON\12_Sep_Handson\ClassLibrary\obj\Debug\LibraryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\New Repo\HandsON\12_Sep_Handson\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\INDIA\source\New Repo\HandsON\12_Sep_Handson\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\INDIA\source\New Repo\HandsON\12_Sep_Handson\ClassLibrary\bin\Debug\ClassLibrary.pdb

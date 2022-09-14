@@ -1,0 +1,6 @@
+C:\Users\INDIA\source\New Repo\HandsON\13_Sep_Handson\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\INDIA\source\New Repo\HandsON\13_Sep_Handson\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\INDIA\source\New Repo\HandsON\13_Sep_Handson\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\New Repo\HandsON\13_Sep_Handson\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\New Repo\HandsON\13_Sep_Handson\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\INDIA\source\New Repo\HandsON\13_Sep_Handson\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

@@ -1,0 +1,8 @@
+C:\Users\INDIA\source\repos\HandsON\ExeceptionalHandling\ExeceptionalHandling\bin\Debug\ExeceptionalHandling.exe.config
+C:\Users\INDIA\source\repos\HandsON\ExeceptionalHandling\ExeceptionalHandling\bin\Debug\ExeceptionalHandling.exe
+C:\Users\INDIA\source\repos\HandsON\ExeceptionalHandling\ExeceptionalHandling\bin\Debug\ExeceptionalHandling.pdb
+C:\Users\INDIA\source\repos\HandsON\ExeceptionalHandling\ExeceptionalHandling\obj\Debug\ExeceptionalHandling.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\HandsON\ExeceptionalHandling\ExeceptionalHandling\obj\Debug\ExeceptionalHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\repos\HandsON\ExeceptionalHandling\ExeceptionalHandling\obj\Debug\ExeceptionalHandling.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\HandsON\ExeceptionalHandling\ExeceptionalHandling\obj\Debug\ExeceptionalHandling.exe
+C:\Users\INDIA\source\repos\HandsON\ExeceptionalHandling\ExeceptionalHandling\obj\Debug\ExeceptionalHandling.pdb

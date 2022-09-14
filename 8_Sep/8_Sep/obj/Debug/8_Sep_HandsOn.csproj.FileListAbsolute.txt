@@ -1,0 +1,8 @@
+C:\Users\INDIA\source\New Repo\HandsON\8_Sep\8_Sep\bin\Debug\8_Sep.exe.config
+C:\Users\INDIA\source\New Repo\HandsON\8_Sep\8_Sep\bin\Debug\8_Sep.exe
+C:\Users\INDIA\source\New Repo\HandsON\8_Sep\8_Sep\bin\Debug\8_Sep.pdb
+C:\Users\INDIA\source\New Repo\HandsON\8_Sep\8_Sep\obj\Debug\8_Sep_HandsOn.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\New Repo\HandsON\8_Sep\8_Sep\obj\Debug\8_Sep_HandsOn.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\New Repo\HandsON\8_Sep\8_Sep\obj\Debug\8_Sep_HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\New Repo\HandsON\8_Sep\8_Sep\obj\Debug\8_Sep.exe
+C:\Users\INDIA\source\New Repo\HandsON\8_Sep\8_Sep\obj\Debug\8_Sep.pdb

@@ -1,0 +1,8 @@
+C:\Users\INDIA\source\repos\_22_aug_hands_on\_22_aug_hands_on\bin\Debug\_22_aug_hands_on.exe.config
+C:\Users\INDIA\source\repos\_22_aug_hands_on\_22_aug_hands_on\bin\Debug\_22_aug_hands_on.exe
+C:\Users\INDIA\source\repos\_22_aug_hands_on\_22_aug_hands_on\bin\Debug\_22_aug_hands_on.pdb
+C:\Users\INDIA\source\repos\_22_aug_hands_on\_22_aug_hands_on\obj\Debug\_22_aug_hands_on.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\_22_aug_hands_on\_22_aug_hands_on\obj\Debug\_22_aug_hands_on.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\repos\_22_aug_hands_on\_22_aug_hands_on\obj\Debug\_22_aug_hands_on.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\_22_aug_hands_on\_22_aug_hands_on\obj\Debug\_22_aug_hands_on.exe
+C:\Users\INDIA\source\repos\_22_aug_hands_on\_22_aug_hands_on\obj\Debug\_22_aug_hands_on.pdb

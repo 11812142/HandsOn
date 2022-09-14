@@ -1,0 +1,11 @@
+C:\Users\INDIA\source\New Repo\HandsON\9_Sep_Handson\9_Sep_Handson\bin\Debug\9_Sep_Handson.exe.config
+C:\Users\INDIA\source\New Repo\HandsON\9_Sep_Handson\9_Sep_Handson\bin\Debug\9_Sep_Handson.exe
+C:\Users\INDIA\source\New Repo\HandsON\9_Sep_Handson\9_Sep_Handson\bin\Debug\9_Sep_Handson.pdb
+C:\Users\INDIA\source\New Repo\HandsON\9_Sep_Handson\9_Sep_Handson\obj\Debug\9_Sep_Handson.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\New Repo\HandsON\9_Sep_Handson\9_Sep_Handson\obj\Debug\9_Sep_Handson.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\New Repo\HandsON\9_Sep_Handson\9_Sep_Handson\obj\Debug\9_Sep_Handson.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\New Repo\HandsON\9_Sep_Handson\9_Sep_Handson\obj\Debug\9_Sep_Handson.exe
+C:\Users\INDIA\source\New Repo\HandsON\9_Sep_Handson\9_Sep_Handson\obj\Debug\9_Sep_Handson.pdb
+C:\Users\INDIA\source\New Repo\HandsON\9_Sep_Handson\9_Sep_Handson\bin\Debug\Library.dll
+C:\Users\INDIA\source\New Repo\HandsON\9_Sep_Handson\9_Sep_Handson\bin\Debug\Library.pdb
+C:\Users\INDIA\source\New Repo\HandsON\9_Sep_Handson\9_Sep_Handson\obj\Debug\9_Sep_Handson.csproj.CopyComplete

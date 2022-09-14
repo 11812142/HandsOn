@@ -1,0 +1,11 @@
+C:\Users\INDIA\source\New Repo\HandsON\SimplilearnPracticeProject\SimplilearnPracticeProject\bin\Debug\SimplilearnPracticeProject.exe.config
+C:\Users\INDIA\source\New Repo\HandsON\SimplilearnPracticeProject\SimplilearnPracticeProject\bin\Debug\SimplilearnPracticeProject.exe
+C:\Users\INDIA\source\New Repo\HandsON\SimplilearnPracticeProject\SimplilearnPracticeProject\bin\Debug\SimplilearnPracticeProject.pdb
+C:\Users\INDIA\source\New Repo\HandsON\SimplilearnPracticeProject\SimplilearnPracticeProject\obj\Debug\SimplilearnPracticeProject.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\New Repo\HandsON\SimplilearnPracticeProject\SimplilearnPracticeProject\obj\Debug\SimplilearnPracticeProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\New Repo\HandsON\SimplilearnPracticeProject\SimplilearnPracticeProject\obj\Debug\SimplilearnPracticeProject.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\New Repo\HandsON\SimplilearnPracticeProject\SimplilearnPracticeProject\obj\Debug\SimplilearnPracticeProject.exe
+C:\Users\INDIA\source\New Repo\HandsON\SimplilearnPracticeProject\SimplilearnPracticeProject\obj\Debug\SimplilearnPracticeProject.pdb
+C:\Users\INDIA\source\New Repo\HandsON\SimplilearnPracticeProject\SimplilearnPracticeProject\bin\Debug\ClassLibrary1.dll
+C:\Users\INDIA\source\New Repo\HandsON\SimplilearnPracticeProject\SimplilearnPracticeProject\bin\Debug\ClassLibrary1.pdb
+C:\Users\INDIA\source\New Repo\HandsON\SimplilearnPracticeProject\SimplilearnPracticeProject\obj\Debug\SimplilearnPracticeProject.csproj.CopyComplete
