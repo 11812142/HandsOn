@@ -89,13 +89,13 @@ namespace ClassLibrary1
 
         public void initiate()
         {
-            Movie m = new Movie("Chandramukhi", "tamil", "Action", 20);
+            Movie m = new Movie("Bharmastra", "Hindi", "Action/Romance", 20);
             dbmovies.Add(m);
-            Movie k = new Movie("Ambikavthy", "telugu", "Romance", 30);
+            Movie k = new Movie("KGF 2", "Kannada", "Action/Drama", 30);
             dbmovies.Add(k);
-            Movie t = new Movie("Anjana", "tamil", "Romance", 30);
+            Movie t = new Movie("SitaRam", "Telgu", "Romance", 30);
             dbmovies.Add(t);
-            Movie n = new Movie("Anupama", "Kannada", "Romance", 30);
+            Movie n = new Movie("Cindrella", "English", "Romance", 30);
             dbmovies.Add(n);
             foreach (var item in dbmovies)
             {
