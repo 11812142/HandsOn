@@ -1,0 +1,13 @@
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\bin\Debug\14_Sep_Handson.exe.config
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\bin\Debug\14_Sep_Handson.exe
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\bin\Debug\14_Sep_Handson.pdb
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\obj\Debug\14_Sep_Handson.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\obj\Debug\14_Sep_Handson.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\obj\Debug\14_Sep_Handson.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\obj\Debug\14_Sep_Handson.exe
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\obj\Debug\14_Sep_Handson.pdb
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\bin\Debug\ClassLibrary2.dll
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\bin\Debug\ClassLibrary2.pdb
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INDIA\source\Handson\14_Sep_Handson\14_Sep_Handson\obj\Debug\14_Sep_Handson.csproj.CopyComplete

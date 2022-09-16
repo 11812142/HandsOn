@@ -4,6 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Sep_Handson", "14_Sep_Handson\14_Sep_Handson.csproj", "{4C6E654D-F3F0-46EC-A99E-DDBFB30D09F7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C965A7AE-B87B-44A5-9523-F25324FAD300} = {C965A7AE-B87B-44A5-9523-F25324FAD300}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2", "ClassLibrary2\ClassLibrary2.csproj", "{C965A7AE-B87B-44A5-9523-F25324FAD300}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +20,10 @@ Global
 		{4C6E654D-F3F0-46EC-A99E-DDBFB30D09F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C6E654D-F3F0-46EC-A99E-DDBFB30D09F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C6E654D-F3F0-46EC-A99E-DDBFB30D09F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C965A7AE-B87B-44A5-9523-F25324FAD300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C965A7AE-B87B-44A5-9523-F25324FAD300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C965A7AE-B87B-44A5-9523-F25324FAD300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C965A7AE-B87B-44A5-9523-F25324FAD300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
