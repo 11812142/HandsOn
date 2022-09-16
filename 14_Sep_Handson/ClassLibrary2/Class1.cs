@@ -43,9 +43,9 @@ namespace ClassLibrary2
         public void initiate()
         {
             movies.Add(new Movie("Bharamastra", "Hindi", "Fantasy", 20));
-            movies.Add(new Movie("Kanchana", "Tamil", "Thriller", 40));
-            movies.Add(new Movie("Anandham", "Telugu", "Drama", 50));
-            movies.Add(new Movie("Anjana", "Telugu", "Thriller", 60));
+            movies.Add(new Movie("Cindrella", "English", "Fantasy", 40));
+            movies.Add(new Movie("SitaRam", "Telugu", "Drama", 50));
+            movies.Add(new Movie("Kgf 2", "Kannada", "Action/Drama", 60));
             movies.Add(new Movie("Atma", "Kannada", "Drama", 34));
         }
         public void search()
