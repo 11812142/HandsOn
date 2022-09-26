@@ -1,0 +1,9 @@
+C:\Users\INDIA\source\Handson\23_Sep\DataAcessLayerLibrary\bin\Debug\DataAcessLayerLibrary.dll
+C:\Users\INDIA\source\Handson\23_Sep\DataAcessLayerLibrary\bin\Debug\DataAcessLayerLibrary.pdb
+C:\Users\INDIA\source\Handson\23_Sep\DataAcessLayerLibrary\obj\Debug\DataAcessLayerLibrary.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\Handson\23_Sep\DataAcessLayerLibrary\obj\Debug\DataAcessLayerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\Handson\23_Sep\DataAcessLayerLibrary\obj\Debug\DataAcessLayerLibrary.dll
+C:\Users\INDIA\source\Handson\23_Sep\DataAcessLayerLibrary\obj\Debug\DataAcessLayerLibrary.pdb
+C:\Users\INDIA\source\Handson\23_Sep\DataAcessLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.dll
+C:\Users\INDIA\source\Handson\23_Sep\DataAcessLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.pdb
+C:\Users\INDIA\source\Handson\23_Sep\DataAcessLayerLibrary\obj\Debug\DataAcessLayerLibrary.csproj.CopyComplete

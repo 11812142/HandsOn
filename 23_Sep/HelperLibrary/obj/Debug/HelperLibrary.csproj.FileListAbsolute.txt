@@ -1,0 +1,11 @@
+C:\Users\INDIA\source\Handson\23_Sep\HelperLibrary\bin\Debug\HelperLibrary.dll
+C:\Users\INDIA\source\Handson\23_Sep\HelperLibrary\bin\Debug\HelperLibrary.pdb
+C:\Users\INDIA\source\Handson\23_Sep\HelperLibrary\obj\Debug\HelperLibrary.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\Handson\23_Sep\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\Handson\23_Sep\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\Users\INDIA\source\Handson\23_Sep\HelperLibrary\obj\Debug\HelperLibrary.pdb
+C:\Users\INDIA\source\Handson\23_Sep\HelperLibrary\bin\Debug\BusinessLogicLayerLibrary.dll
+C:\Users\INDIA\source\Handson\23_Sep\HelperLibrary\bin\Debug\DataAcessLayerLibrary.dll
+C:\Users\INDIA\source\Handson\23_Sep\HelperLibrary\bin\Debug\BusinessLogicLayerLibrary.pdb
+C:\Users\INDIA\source\Handson\23_Sep\HelperLibrary\bin\Debug\DataAcessLayerLibrary.pdb
+C:\Users\INDIA\source\Handson\23_Sep\HelperLibrary\obj\Debug\HelperLibrary.csproj.CopyComplete

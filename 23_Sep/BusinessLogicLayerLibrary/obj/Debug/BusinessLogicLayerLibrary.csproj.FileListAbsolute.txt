@@ -1,0 +1,6 @@
+C:\Users\INDIA\source\Handson\23_Sep\BusinessLogicLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.dll
+C:\Users\INDIA\source\Handson\23_Sep\BusinessLogicLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.pdb
+C:\Users\INDIA\source\Handson\23_Sep\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\Handson\23_Sep\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\Handson\23_Sep\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.dll
+C:\Users\INDIA\source\Handson\23_Sep\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.pdb

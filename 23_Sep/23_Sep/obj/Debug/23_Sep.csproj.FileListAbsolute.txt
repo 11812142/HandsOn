@@ -1,0 +1,15 @@
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\obj\Debug\23_Sep.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\obj\Debug\23_Sep.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\obj\Debug\23_Sep.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\bin\Debug\23_Sep.exe.config
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\bin\Debug\23_Sep.exe
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\bin\Debug\23_Sep.pdb
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\bin\Debug\BusinessLogicLayerLibrary.dll
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\bin\Debug\HelperLibrary.dll
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\bin\Debug\DataAcessLayerLibrary.dll
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\bin\Debug\BusinessLogicLayerLibrary.pdb
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\bin\Debug\HelperLibrary.pdb
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\bin\Debug\DataAcessLayerLibrary.pdb
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\obj\Debug\23_Sep.csproj.CopyComplete
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\obj\Debug\23_Sep.exe
+C:\Users\INDIA\source\Handson\23_Sep\23_Sep\obj\Debug\23_Sep.pdb
