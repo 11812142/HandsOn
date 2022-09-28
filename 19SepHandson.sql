@@ -63,7 +63,7 @@ add Qty int
 --alter column Qty Modify Quantity
 --Execute sp_rename column Qty, Quantity
 
-exec sp_rename 'Qty', 'Quantity';
 
+exec sp_rename 'sales_detail.Qty',  'Quality', 'column';
 
 
