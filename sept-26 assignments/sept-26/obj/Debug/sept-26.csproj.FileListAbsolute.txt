@@ -1,0 +1,36 @@
+E:\c# assignment\sept-26\sept-26\bin\Debug\sept-26.exe.config
+E:\c# assignment\sept-26\sept-26\bin\Debug\sept-26.exe
+E:\c# assignment\sept-26\sept-26\bin\Debug\sept-26.pdb
+E:\c# assignment\sept-26\sept-26\bin\Debug\bussinesslogic.dll
+E:\c# assignment\sept-26\sept-26\bin\Debug\helper.dll
+E:\c# assignment\sept-26\sept-26\bin\Debug\data access.dll
+E:\c# assignment\sept-26\sept-26\bin\Debug\bussinesslogic.pdb
+E:\c# assignment\sept-26\sept-26\bin\Debug\helper.pdb
+E:\c# assignment\sept-26\sept-26\bin\Debug\data access.pdb
+E:\c# assignment\sept-26\sept-26\bin\Debug\data access.dll.config
+E:\c# assignment\sept-26\sept-26\obj\Debug\sept-26.csproj.AssemblyReference.cache
+E:\c# assignment\sept-26\sept-26\obj\Debug\sept-26.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\sept-26\sept-26\obj\Debug\sept-26.csproj.CoreCompileInputs.cache
+E:\c# assignment\sept-26\sept-26\obj\Debug\sept-26.csproj.CopyComplete
+E:\c# assignment\sept-26\sept-26\obj\Debug\sept-26.exe
+E:\c# assignment\sept-26\sept-26\obj\Debug\sept-26.pdb
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\sept-26.exe.config
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\sept-26.exe
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\sept-26.pdb
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\bussinesslogic.dll
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\EntityFramework.dll
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\helper.dll
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\data access.dll
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\bussinesslogic.pdb
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\EntityFramework.xml
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\helper.pdb
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\data access.pdb
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\bin\Debug\data access.dll.config
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\obj\Debug\sept-26.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\obj\Debug\sept-26.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\obj\Debug\sept-26.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\obj\Debug\sept-26.csproj.CopyComplete
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\obj\Debug\sept-26.exe
+C:\Users\INDIA\source\Handson\sept-26 assignments\sept-26\obj\Debug\sept-26.pdb

@@ -1,0 +1,4 @@
+﻿Using Library management System database:
+create DBFirstApproach for books and Members table
+Use BAL,DAL and Console App
+BAL,DAL install the entity framework

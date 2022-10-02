@@ -1,0 +1,24 @@
+E:\c# assignment\sept-26\helper\bin\Debug\helper.dll
+E:\c# assignment\sept-26\helper\bin\Debug\helper.pdb
+E:\c# assignment\sept-26\helper\bin\Debug\bussinesslogic.dll
+E:\c# assignment\sept-26\helper\bin\Debug\data access.dll
+E:\c# assignment\sept-26\helper\bin\Debug\bussinesslogic.pdb
+E:\c# assignment\sept-26\helper\bin\Debug\data access.pdb
+E:\c# assignment\sept-26\helper\bin\Debug\data access.dll.config
+E:\c# assignment\sept-26\helper\obj\Debug\helper.csproj.AssemblyReference.cache
+E:\c# assignment\sept-26\helper\obj\Debug\helper.csproj.CoreCompileInputs.cache
+E:\c# assignment\sept-26\helper\obj\Debug\helper.csproj.CopyComplete
+E:\c# assignment\sept-26\helper\obj\Debug\helper.dll
+E:\c# assignment\sept-26\helper\obj\Debug\helper.pdb
+C:\Users\INDIA\source\Handson\sept-26 assignments\helper\bin\Debug\helper.dll
+C:\Users\INDIA\source\Handson\sept-26 assignments\helper\bin\Debug\helper.pdb
+C:\Users\INDIA\source\Handson\sept-26 assignments\helper\bin\Debug\bussinesslogic.dll
+C:\Users\INDIA\source\Handson\sept-26 assignments\helper\bin\Debug\data access.dll
+C:\Users\INDIA\source\Handson\sept-26 assignments\helper\bin\Debug\bussinesslogic.pdb
+C:\Users\INDIA\source\Handson\sept-26 assignments\helper\bin\Debug\data access.pdb
+C:\Users\INDIA\source\Handson\sept-26 assignments\helper\bin\Debug\data access.dll.config
+C:\Users\INDIA\source\Handson\sept-26 assignments\helper\obj\Debug\helper.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\Handson\sept-26 assignments\helper\obj\Debug\helper.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\Handson\sept-26 assignments\helper\obj\Debug\helper.csproj.CopyComplete
+C:\Users\INDIA\source\Handson\sept-26 assignments\helper\obj\Debug\helper.dll
+C:\Users\INDIA\source\Handson\sept-26 assignments\helper\obj\Debug\helper.pdb

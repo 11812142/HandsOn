@@ -1,0 +1,38 @@
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\sept-28 assignments.exe.config
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\sept-28 assignments.exe
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\sept-28 assignments.pdb
+E:\c# assignment\sept-28 assignments\sept-28 assignments\obj\Debug\sept-28 assignments.csproj.AssemblyReference.cache
+E:\c# assignment\sept-28 assignments\sept-28 assignments\obj\Debug\sept-28 assignments.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\sept-28 assignments\sept-28 assignments\obj\Debug\sept-28 assignments.csproj.CoreCompileInputs.cache
+E:\c# assignment\sept-28 assignments\sept-28 assignments\obj\Debug\sept-28 assignments.exe
+E:\c# assignment\sept-28 assignments\sept-28 assignments\obj\Debug\sept-28 assignments.pdb
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\bal.dll
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\EntityFramework.dll
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\bal.pdb
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\EntityFramework.xml
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# assignment\sept-28 assignments\sept-28 assignments\obj\Debug\sept-28 assignments.csproj.CopyComplete
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\bal.dll.config
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\dataaccess.dll
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\dataaccess.pdb
+E:\c# assignment\sept-28 assignments\sept-28 assignments\bin\Debug\dataaccess.dll.config
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\sept-28 assignments.exe.config
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\sept-28 assignments.exe
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\sept-28 assignments.pdb
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\bal.dll
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\dataaccess.dll
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\EntityFramework.dll
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\bal.pdb
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\bal.dll.config
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\dataaccess.pdb
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\dataaccess.dll.config
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\EntityFramework.xml
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\obj\Debug\sept-28 assignments.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\obj\Debug\sept-28 assignments.csproj.SuggestedBindingRedirects.cache
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\obj\Debug\sept-28 assignments.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\obj\Debug\sept-28 assignments.csproj.CopyComplete
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\obj\Debug\sept-28 assignments.exe
+C:\Users\INDIA\source\Handson\sept-28 assignments\sept-28 assignments\obj\Debug\sept-28 assignments.pdb
