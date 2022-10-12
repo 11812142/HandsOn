@@ -1,0 +1,17 @@
+
+1) Do Model binding on a list of products using ProductModel class.
+generate product id using AddTransient().
+2) Validations are to be included in the ProductModel Class.
+3) show a single product by searching a product in the list.
+By default the search should yeild productid 1 as result in the details view.
+4) Mfg date property to be included in the Model Class and the format must be changed to dd/mm/yyyy format in edit mode.
+------------------------------------------------
+Using the Library management case study,
+1) create a member class and create list of members and pass it to the view using Session.
+2) create a books class and create list of books and pass it to the view using Viewdata.
+Generate book no using scoped.
+3) create a issuedbooks class and create list of issued books of the member and pass it to the view using TempData.
+4) do the add member,remove member,edit member and delete member functionalities in the controller.
+While adding member u
+from Sulakshana Deore to All Attendees:
+While adding the member use transient.
